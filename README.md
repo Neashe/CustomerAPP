@@ -2,6 +2,12 @@
 Short programm for reqruitment process
 Programm doesn't require any command arguments.
 
+Compiling programm:
+(in src directory) javac Application.java
+
+Running programm:
+java Application
+
 
 This is very simple console programm that adds and deletes customers. 
 It's quite chaotic, but should implement all functional features.
